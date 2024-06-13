@@ -30,6 +30,7 @@
   </div>
    
   </body>
+  
 <script type="text/javascript">
  
 	//to set the different game levels
