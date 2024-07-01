@@ -24,11 +24,8 @@
 	<img src="snake.png" id="snake0" />
 	<img src="snake.png" id="snake1" />
     <img src="snake.png" id="snake2" />
-	
   </div>
-   
   </body>
-  
 <script type="text/javascript">
  
 	//to set the different game levels
