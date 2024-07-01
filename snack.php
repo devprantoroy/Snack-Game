@@ -17,8 +17,6 @@
 		$SnakePace=200;
 	 $Goals= $_POST['Goals'];
 	?>
- 
-
  <body>
   <label type="text" id='scoreLabel'>Score: </label>
   <input type='text' id='scoreText' value='0'></input> 
